@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoL", "GoL\GoL.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoL.Tests", "GoL.Tests\GoL.Tests.csproj", "{19225669-9359-4111-AC3B-453A98D4BA16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoLConsole", "GoLConsole\GoLConsole.csproj", "{6D13B092-23C2-45E7-A8A1-DAB0A244CE13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{19225669-9359-4111-AC3B-453A98D4BA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19225669-9359-4111-AC3B-453A98D4BA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19225669-9359-4111-AC3B-453A98D4BA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D13B092-23C2-45E7-A8A1-DAB0A244CE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D13B092-23C2-45E7-A8A1-DAB0A244CE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D13B092-23C2-45E7-A8A1-DAB0A244CE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D13B092-23C2-45E7-A8A1-DAB0A244CE13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
